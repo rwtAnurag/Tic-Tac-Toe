@@ -14,7 +14,6 @@ section{
     margin:50px auto;
 }
 .cell{
-    font-family: "Permanent marker",cursive;
     width: 200px;
     background-color:lightsteelblue;
     height: 200px;
@@ -26,16 +25,14 @@ section{
 }
 button {
     background-color: #4CAF50; /* Green */
-    border:5px solid rgb(218, 209, 209);
+    border:6px solid rgb(218, 209, 209);
     color: white;
-    font-family: "Permanent marker",cursive;
     padding: 20px 40px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 50px;
+    font-size: 60px;
   }
   .game--status{
-    font-family: "Permanent marker",cursive;
-    font-size: 80px;
+    font-size: 90px;
   }
